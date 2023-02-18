@@ -4,7 +4,7 @@
  *
  *Return: 0
 */
-char main(void)
+int main(void)
 {
 	char chu;
 	char chl;
