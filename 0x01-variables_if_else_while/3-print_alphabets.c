@@ -17,7 +17,7 @@ char main(void)
 	{
 		putchar(chl);
 	}
-putchar("\n");
-	return (0);
+	putchar('\n');
+return (0);
 }
 
