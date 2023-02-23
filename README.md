@@ -1,1 +1,1 @@
-projecty 0x02
+more fuctions and nested loops
